@@ -45,7 +45,7 @@ export const personalInfo = {
   intro:
     "I build practical software systems that connect thoughtful product engineering with AI-driven intelligence. My work spans full stack applications, machine learning research, IoT prototypes, and academic projects designed to solve real problems with clean, reliable technology.",
   photo: "/profile/safowan.jpeg",
-  email: "samiuzzamansafowan1111@gmail.com",
+  email: "msamiuzzaman2410086@bscse.uiu.ac.bd",
   linkedinLabel: "Muhammad Samiuzzaman Safowan",
   linkedinUrl: "https://www.linkedin.com/in/muhammad-samiuzzaman-safowan-021650328/",
   socials: [
